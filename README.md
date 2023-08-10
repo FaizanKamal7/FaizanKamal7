@@ -27,7 +27,7 @@
       align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=faizankamal7&show_icons=true&locale=en&layout=compact"
       alt="faizankamal7"
-      height="200" 
+      height="120" 
     />
   </p>
   
@@ -36,7 +36,7 @@
       align="center"
       src="https://github-readme-stats.vercel.app/api?username=faizankamal7&show_icons=true&locale=en"
       alt="faizankamal7"
-      height="200"
+      height="120"
     />
   </p>
   
@@ -45,7 +45,7 @@
       align="center"
       src="https://github-readme-streak-stats.herokuapp.com/?user=faizankamal7&"
       alt="faizankamal7"
-      height="200"
+      height="120"
     />
   </p>
   
