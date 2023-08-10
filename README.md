@@ -45,7 +45,7 @@
       align="center"
       src="https://github-readme-streak-stats.herokuapp.com/?user=faizankamal7&"
       alt="faizankamal7"
-      width="865"
+      height="200"
     />
   </p>
   
