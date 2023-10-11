@@ -97,12 +97,12 @@
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizankamal7&" alt="faizankamal7" height="120" />
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats-do8d-git-master-faizankamal7s-projects.vercel.app/api?username=FaizanKamal7&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FaizanKamal7&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats-do8d-git-master-faizankamal7s-projects.vercel.app/api/top-langs/?username=FaizanKamal7&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/faizankamal) 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats-faizan.vercel.app/api?username=FaizanKamal7&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FaizanKamal7&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats-faizan.vercel.app/api/top-langs/?username=FaizanKamal7&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
   
