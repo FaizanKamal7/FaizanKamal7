@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nixus ERP<br>🌱 I’m currently learning Laravel, Javascript, Bootstrap<br>💬 Ask me about web development<br>📫 How to reach me faizankamal619.fk@gmail.com<br>⚡ Fun fact I own YouTube channel with over 600k subscribers
+🔭 I’m currently working on Nixus ERP using Laravel (PHP Framework)<br>🌱 I’m currently learning Django (Python Framework)<br>💬 Ask me about web development<br>📫 How to reach me faizankamal619.fk@gmail.com<br>⚡ Fun fact: I ran startup (Multi Delivery App) when I was graduating from university, generated over 200 customer and I also own YouTube channel with over 600k subscribers
 
 
 ## 🌐 Socials:
@@ -90,4 +90,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FaizanKamal7&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats-faizan.vercel.app/api/top-langs/?username=FaizanKamal7&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  
+ 
+## 💰 You can if you want 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/faizankamal) 
+
