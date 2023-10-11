@@ -1,28 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizan Kamal</h1>
 <h3 align="center">A passionate full-stack web developer from Pakistan</h3>
-## 19 Languages
-
-### Most used languages
-
-[![JavaScript](https://raw.githubusercontent.com/favicon.ico)](https://github.com/languages/javascript)
-**JavaScript**
-- Size: 2.59 MB
-- Percentage: 64.67%
-
-[![C++](https://raw.githubusercontent.com/favicon.ico)](https://github.com/languages/c++)
-**C++**
-- Size: 616 kB
-- Percentage: 15.42%
-
-[![TypeScript](https://raw.githubusercontent.com/favicon.ico)](https://github.com/languages/typescript)
-**TypeScript**
-- Size: 721 kB
-- Percentage: 18.03%
-
-[![Python](https://raw.githubusercontent.com/favicon.ico)](https://github.com/languages/python)
-**Python**
-- Size: 75.4 kB
-- Percentage: 1.89%
 
 - 🔭 I’m currently working on **Nixus ERP**
 
