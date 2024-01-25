@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Nixus ERP using Laravel (PHP Framework)<br>🌱 I’m currently learning Django (Python Framework)<br>💬 Ask me about web development<br>📫 How to reach me faizankamal619.fk@gmail.com<br>⚡ Fun fact: I ran startup (Multi Delivery App) when I was graduating from university, generated over 200 customer and I also own YouTube channel with over 600k subscribers
-
+🔭 I’m currently working on Nixus ERP using Laravel (PHP Framework)<br>🌱 I’m currently learning Django (Python Framework)<br>💬 Ask me about web development<br>📫 How to reach me faizankamal619.fk@gmail.com
+<br>⚡ Fun fact: I ran startup (Multi Delivery App) when I was graduating from university, generated over 200 customer and I also own YouTube channel with over 600k subscribers
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faizankamal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizankamal7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7290043) 
