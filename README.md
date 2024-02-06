@@ -86,9 +86,15 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=FaizanKamal7&theme=gotham&hide_border=true)<br/>
+<div align="center">
 
-
+   [![GitHub Streak](https://streak-stats.demolab.com?user=FaizanKamal7&theme=dark)](https://git.io/streak-stats)
+   
+   
+  <a href="[https://github.com/FaizanKamal7]">
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zee404&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zee404&layout=compact&langs_count=7&theme=prussian"/> -->
+</div>
  
 ## 💰 You can if you want 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/faizankamal) 
