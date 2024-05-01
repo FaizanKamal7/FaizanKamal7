@@ -1,5 +1,8 @@
 ## Hi! I'm Faizan Kamal, A Full Stack Developer.
-🔭 Currently developing an ERP system using Laravel (PHP Framework)<br>
+🔭 Currently working on:  <ul>
+<li>Developing and maintaining applications within the Elite Platform, ensuring adherence to monorepo structure and utilizing Docker for containerization, while collaborating with team to enhance functionality.</li>
+<li>Segregating backend code and relocating functions from various applications to a shared backend environment with typescript and node, streamlining processes and reducing redundancy.</li>
+ </ul>
 💻 Ask me about web development<br>📫 How to reach me faizankamal619.fk@gmail.com
 
 🌟 Fun fact: I Founded a startup (Multi Delivery App) during university, serving over 500 customers<br>
