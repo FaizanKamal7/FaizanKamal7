@@ -6,7 +6,7 @@
 💻 Ask me about web development<br>📫 How to reach me faizankamal619.fk@gmail.com
 
 🌟 Fun fact: I Founded a startup (Multi Delivery App) during university, serving over 500 customers<br>
-🎥 Also, I have a YouTube channel showcasing the daily life of software engineers<br>
+🎥 Also, I have a YouTube channel with over 600k subscribers<br>
 
 <!-- Add your Languages and tools here-->
 <h2>⚙️ Languages & Tools :</h2>
