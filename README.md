@@ -1,7 +1,7 @@
 ## Hi! I'm Faizan Kamal, A Full Stack Developer.
-🔭 Currently working on:  <ul>
-<li>Developing and maintaining applications within the Elite Platform, ensuring adherence to monorepo structure and utilizing Docker for containerization, while collaborating with team to enhance functionality.</li>
-<li>Segregating backend code and relocating functions from various applications to a shared backend environment with typescript and node, streamlining processes and reducing redundancy.</li>
+🔭 Currently,  <ul>
+<li><i>Contributing to Ausbuilding's mission of facilitating vocational training and apprenticeships in Germany. Assisting in the development and implementation of Ausbildung programs, which combine practical on-the-job training with theoretical education. </i></li> 
+ 📍 <b> @Ausbildungsbasis (Frankfurt, Germany)  </b>
  </ul>
 💻 Ask me about web development<br>📫 How to reach me faizankamal619.fk@gmail.com
 
