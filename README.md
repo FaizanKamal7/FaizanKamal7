@@ -1,8 +1,5 @@
 ## Hi! I'm Faizan Kamal, A Full Stack Developer.
-🔭 Currently,  <ul>
-<li><i>Contributing to Ausbuilding's mission of facilitating vocational training and apprenticeships in Germany. Assisting in the development and implementation of Ausbildung programs, which combine practical on-the-job training with theoretical education. </i></li> 
- 📍 <b> @Ausbildungsbasis GmbH  (Frankfurt, Germany)  </b>
- </ul>
+
 💻 Ask me about web development<br>📫 How to reach me faizankamal619.fk@gmail.com
 
 🌟 Fun fact: I Founded a startup (Multi Delivery App) during university, serving over 500 customers<br>
