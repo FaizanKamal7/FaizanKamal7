@@ -38,9 +38,10 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-   [![GitHub Streak](https://streak-stats.demolab.com?user=FaizanKamal7&theme=dark)](https://git.io/streak-stats)
-   
-   
+   [![GitHub Streak](https://streak-stats.demolab.com?user=FaizanKamal7&theme=dark)](https://git.io/streak-stats) 
+ <img height="137px"
+  src="https://stackoverflow-card.vercel.app/?userID=353337&theme=dracula"
+/>   
   <a href="[https://github.com/FaizanKamal7]">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zee404&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zee404&layout=compact&langs_count=7&theme=prussian"/> -->
