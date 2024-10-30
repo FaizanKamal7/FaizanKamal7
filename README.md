@@ -42,7 +42,7 @@
 
   <a href="https://stackoverflow.com/users/7290043/faizan-kamal">
     <img height="137px"
-      src="https://stackoverflow-card.vercel.app/?userID=7290043&theme=dracula"
+      src="https://stackoverflow-card.vercel.app/?userID=7290043&theme=solarized-dark"
     />   
   </a>
   <a href="[https://github.com/FaizanKamal7]">
