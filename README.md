@@ -38,7 +38,7 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=FaizanKamal7)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com?user=FaizanKamal7)](https://git.io/streak-stats)
    
   <a href="https://stackoverflow.com/users/7290043/faizan-kamal">
     <img height="137px"
