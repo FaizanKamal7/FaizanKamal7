@@ -1,6 +1,6 @@
 ## Hi! I'm Faizan Kamal, A Full Stack Developer.
 
-💻 Coding is my passion and I've been coding for over 4 years now.<br>
+💻 Coding is my passion and I've been coding for almost 5 years now.<br>
 ❓ Ask me about web development<br>📫 How to reach me faizankamal619.fk@gmail.com <br>
 🌟 Fun fact: I Founded a startup (Multi Delivery App) during university, serving over 500 customers<br>
 <br>
